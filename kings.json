@@ -1,0 +1,500 @@
+{
+  "juda": [
+    {
+      "id": "n-roboam",
+      "name": "Rehoboam",
+      "years": 17,
+      "text": "This Rehoboam, despising the advice of his elders in favour of youthful recklessness, disturbed the people. He retained the support of two tribes and the Levites, and that kingdom was called Judah. His sins being weighed, he withstood the force of Shishak, king of Egypt, who attacked him. He substituted bronze shields for the gold shields that were carried off.",
+      "sources": {
+        "wiki": "17",
+        "C2": "17",
+        "W": "17",
+        "Lz1": "17"
+      }
+    },
+    {
+      "id": "n-abia",
+      "name": "Abijah",
+      "years": 3,
+      "sources": {
+        "wiki": "3",
+        "C2": "3",
+        "W": "3",
+        "Lz1": "3"
+      }
+    },
+    {
+      "id": "n-asa",
+      "name": "Asa",
+      "years": 41,
+      "text": "This Asa fortified the cities of Gabaa and Masphat with stone and wood that Baasha had collected in Rama. He was rebuked by Jehu because he had trusted Ben-Hadad. He died of pain in his feet, which he brought on himself by putting the prophet in prison.",
+      "sources": {
+        "wiki": "41",
+        "C2": "41",
+        "W": "41",
+        "Lz1": "41"
+      }
+    },
+    {
+      "id": "n-josaphat",
+      "name": "Jehoshaphat",
+      "years": 25,
+      "text": "This Jehoshaphat, when enemies were invading the land of Judah, took comfort in the temple from Uzziel the prophet saying to him: \"O Judah and Jerusalem, fear not\" et cetera, and Israel called the place of plunder the Valley of Blessing. His ships, as the prophet Eliezer foretold to him, were broken up at Ezion-Geber.",
+      "sources": {
+        "wiki": "25",
+        "C2": "25",
+        "W": "25",
+        "Lz1": "25"
+      }
+    },
+    {
+      "id": "n-joram1",
+      "name": "Jehoram of Judah",
+      "years": 8,
+      "text": "This Jehoram took a daughter of Ahab, king of Israel, as his wife. Under him, Edom ceased to be a tributary of Judah. Matthew skips from Jehoram to Uzziah in his narrative.",
+      "sources": {
+        "wiki": "8",
+        "C2": "8",
+        "W": "8",
+        "Lz1": "8"
+      }
+    },
+    {
+      "id": "n-ochozias2",
+      "name": "Ahaziah of Judah",
+      "years": 1,
+      "text": "This Ahaziah was killed in the siege of Ramoth Gilead with Jehoram, his son-in-law, who was offered support by Jehu, recently annointed by the prophet as king of Israel.",
+      "sources": {
+        "wiki": "1",
+        "C2": "1",
+        "W": null,
+        "Lz1": "1"
+      }
+    },
+    {
+      "id": "n-atthalia",
+      "name": "Athaliah",
+      "years": 6,
+      "text": "This Athalia killed all the royal seed except little Jehoash, who Jochabeth (wife of Jehoiada the high priest and daughter of Jehoram) nurtured secretly in a little chapel for six years. After six years Athalia was ignominiously killed by Jehoiada.",
+      "sources": {
+        "wiki": "6",
+        "C2": "6",
+        "W": "6",
+        "Lz1": null
+      }
+    },
+    {
+      "id": "n-joas1",
+      "name": "Jehoash of Judah",
+      "years": 40,
+      "text": "This Jehoash established a treasury to repair the temple. He killed Zecharia, son of Jehoiada, who had made him king. He endured divine honours devoted to him, and, killed by his servants, he died.",
+      "sources": {
+        "wiki": "40",
+        "C2": "40",
+        "W": "40",
+        "Lz1": "40"
+      }
+    },
+    {
+      "id": "n-amasias",
+      "name": "Amaziah",
+      "years": 29,
+      "text": "This Amaziah did not heed the parable of the thistle from Jehoash, king of Israel. Defeated by Jehoash, Jerusalem was delivered to him to be plundered, for the vessels of the Lord's house to be carried away, and for the wall to be broken down.",
+      "sources": {
+        "wiki": "29",
+        "C2": "29",
+        "W": "29",
+        "Lz1": "19"
+      }
+    },
+    {
+      "id": "n-sineRege1",
+      "name": "No King (1)",
+      "years": 13,
+      "text": "For these thirteen years Judah was without a king, as is proved by the text of the Book of Kings and collation of the years of the kings of Judah and the kings of Israel.",
+      "sources": {
+        "wiki": "13",
+        "C2": "13",
+        "W": "13",
+        "Lz1": "13"
+      }
+    },
+    {
+      "id": "n-ozias",
+      "name": "Uzziah",
+      "years": 52,
+      "text": "This Uzziah loved agriculture. When he usurped the priesthood under Azariah, he was struck with leprosy and half the mountain split away, destroying the royal gardens. According to some, in his time, Isaiah, Hosea, Joel and Obadiah began to prophesy.",
+      "sources": {
+        "wiki": "52",
+        "C2": "52",
+        "W": "52",
+        "Lz1": "52"
+      }
+    },
+    {
+      "id": "n-joatan",
+      "name": "Jotham",
+      "years": 16,
+      "text": "This Jotham built the gate of the house of the Lord, which is called the beautiful gate, or by the Hebrews the Jotham gate, or by others the Flock Tower. In the time of Jotham Isaiah saw the Lord enthroned, and Nahum and Micah began to prophesy.",
+      "sources": {
+        "wiki": "16",
+        "C2": "16",
+        "W": "16",
+        "Lz1": "16"
+      }
+    },
+    {
+      "id": "n-achaz",
+      "name": "Ahaz",
+      "years": 16,
+      "text": "This Ahaz threw his son into the fire at Ben Hinnom. Besieged by Rezin and Pekah, he refused to believe the consolation of Isaiah and scorned asking for a sign. Abandoning God, he put his trust in Tigath-Pileser. He destroyed the temple ornaments. In his time Rome was founded and Isaiah foresaw the oppression by Babylon.",
+      "sources": {
+        "wiki": "16",
+        "C2": "16",
+        "W": "16",
+        "Lz1": "16"
+      }
+    },
+    {
+      "id": "n-ezechias",
+      "name": "Hezekiah",
+      "years": 29,
+      "text": "This Hezekiah restored what his father had displaced, broke up the bronze serpent, and solemnly celebrated the Passover. When he heard Rabsace's insult, he was humble before the Lord. He received through Isaiah and believed the sign of liberation from Sennacherib after three years, through a massacre done by an angel. Because he did not offer praise, he became sick. He believed in the sign of health shown by Isaiah that the sun went backwards, and, healed, he sang a song. He was rebuked by Isaiah for showing God's treasures to the Babylonians, and died in peace.",
+      "sources": {
+        "wiki": "29",
+        "C2": "29",
+        "W": "29",
+        "Lz1": "29"
+      }
+    },
+    {
+      "id": "n-manasses2",
+      "name": "Manasseh of Judah",
+      "years": 55,
+      "text": "This Manasseh killed Isaiah (who showed him divine miracles) with a wooden saw, and filled the squares of Jerusalem with the blood of the prophets. Later, recognizing his wickedness, not without great admiration, he changed his life for the better.",
+      "sources": {
+        "wiki": "55",
+        "C2": "55",
+        "W": "55",
+        "Lz1": "55"
+      }
+    },
+    {
+      "id": "n-amon3",
+      "name": "Amon",
+      "years": 2,
+      "sources": {
+        "wiki": "2",
+        "C2": "2",
+        "W": "5",
+        "Lz1": "2"
+      }
+    },
+    {
+      "id": "n-josias",
+      "name": "Josiah",
+      "years": 31,
+      "text": "This Josiah found the book of Deuteronomy in the Ark of the Covenant. He was terrified by the response from Huldah, humbled himself, and ended idolatry in the high places. He burned the bones of the pseudo-prophets and priests in Bethel. Having celebrated an incomparable Passover, he was killed by Pharaoh in Megiddo. He was shot with an arrow by the king at Rimmon. He was mourned inconsolably, and Jeremiah wrote lamentations about his death. In the thirteenth year of his reign, Jeremiah began to prophesy through three signs: the watchful branch, the boiling pot, and a belt.",
+      "sources": {
+        "wiki": "31",
+        "C2": "31",
+        "W": "31",
+        "Lz1": "31"
+      }
+    },
+    {
+      "id": "n-joachaz2",
+      "name": "Jehoahaz of Judah",
+      "years": 0.25,
+      "text": "This Jehoahaz, made king by the people, was taken away by Pharoah, who substituted his brother in his place.",
+      "sources": {
+        "wiki": "3 months",
+        "C2": "3 months",
+        "W": "3 months",
+        "Lz1": "3 months"
+      }
+    },
+    {
+      "id": "n-jechonias",
+      "name": "Jeconiah or Eliakim or Jehoiakim",
+      "years": 11,
+      "text": "This first Jeconiah, after Uriah was killed, Jeremiah imprisoned, and the book of Baruch's prophecy torn up, did not heed the example of the Rechabites. He paid tribute to Nebuchadnezzar for three years, but finally was killed by him and thrown from the walls.",
+      "sources": {
+        "wiki": "11",
+        "C2": "11",
+        "W": "11",
+        "Lz1": "11"
+      }
+    },
+    {
+      "id": "n-joachim2",
+      "name": "Jehoiachin or Jeconiah",
+      "years": 0.25,
+      "text": "This second Jeconiah, on the advice of Jeremiah, gave himself into the hands of the returning Nebuchadnezzar. About 10,000 people were transported with him, in which number were Ezechiel, with Daniel and the three children.",
+      "sources": {
+        "wiki": "3 months",
+        "C2": "3 months",
+        "W": "3 months",
+        "Lz1": "3 months"
+      }
+    },
+    {
+      "id": "n-sedechias",
+      "name": "Zedekiah or Mattaniah",
+      "years": 11,
+      "text": "This Zedekiah, who was previously called Mathanias, did not learn from the potter's vessel. Terrified by the death of Hananiah [with respect to the twisted chains], he heard the letter directed against Jeremiah, but neither the vision of the figs nor the breaking of the earthen jar had any impact. In the ninth year he was beseiged by Nebuchadnezzar, who retreated and defeated the King of Egypt. Jeremiah was mocked and thrown off his donkey and into prison. Returning to the siege, Nebuzaradan, sold a field. While free, Jeremiah prophesied evils to the king, and was put into a cistern and freed by a eunuch. But he did not stop prophesying evil to the king, who (fleeing by night) was captured in the plains of Jericho. In Zedekiah's eleventh year, the city was captured, Jeremiah freed, and Gedaliah left as prefect. Zedekiah was taken blind to Babylon, where he died shamefully from a laxative and was buried.",
+      "sources": {
+        "wiki": "11",
+        "C2": "11",
+        "W": "11",
+        "Lz1": "11"
+      }
+    }
+  ],
+  "israel": [
+    {
+      "id": "n-jeroboam1",
+      "name": "Jeroboam I",
+      "years": 22,
+      "text": "This Jeroboam accepted ten pieces of Ahijah the Shilohite's cloak and fled to Egypt. After the death of Solomon, at Shechem he was chosen as king by ten tribes. He set up cast calves in Dan and Bethel. After hearing the threat of the prophet Iddo, his hand was shrivelled and healed, the altar was torn apart, and the prophet Iddo was killed by a lion because of the feast of the false prophets. Yet Jeroboam was not persuaded to abandon his evil ways. He consulted Ahijah the Shilohite through his wife about the health of his boy, and hearing the sad news of his desolation, he died.",
+      "sources": {
+        "wiki": "22",
+        "C2": "22",
+        "W": "22",
+        "Lz1": "22"
+      }
+    },
+    {
+      "id": "n-nadab2",
+      "name": "Nadab of Israel",
+      "years": 2,
+      "text": "This Nadab, while besieging Gibbethon, a Philistine town, was killed by Baasha.",
+      "sources": {
+        "wiki": "2",
+        "C2": "2",
+        "W": "2",
+        "Lz1": "2"
+      }
+    },
+    {
+      "id": "n-baasa",
+      "name": "Baasha",
+      "years": 24,
+      "text": "This Baasha, although corrected by Jehu the prophet, built Ramah as part of his fight against Asa. He was impeded by Ben-Hadad, and died.",
+      "sources": {
+        "wiki": "24",
+        "C2": "24",
+        "W": "24",
+        "Lz1": "24"
+      }
+    },
+    {
+      "id": "n-hela",
+      "name": "Elah",
+      "years": 2,
+      "text": "This Elah, while drunk, was killed by Zimri, who, while beseiged by Omri, was burned in Tirzah.",
+      "sources": {
+        "wiki": "2",
+        "C2": "2",
+        "W": "2",
+        "Lz1": "2"
+      }
+    },
+    {
+      "id": "n-zamri",
+      "name": "Zimri",
+      "years": 0.019,
+      "sources": {
+        "wiki": "7 days",
+        "C2": "7 days",
+        "W": "7 days",
+        "Lz1": "7 days"
+      }
+    },
+    {
+      "id": "n-amri",
+      "name": "Omri",
+      "years": 12,
+      "text": "This Omri fought with Tibni for three years before becoming sole ruler, and, having built Samaria, he died.",
+      "sources": {
+        "wiki": "12",
+        "C2": "12",
+        "W": "12",
+        "Lz1": "12 days"
+      }
+    },
+    {
+      "id": "n-achab",
+      "name": "Ahab",
+      "years": 22,
+      "text": "In the time of Ahab, king of Israel, Jericho was built by Abiel, and Elijah, bringing about drought, was fed by a raven and a widow whose son he revived. Summoned to Ahab by Obadiah, Elijah killed 450 prophets of Baal. When the rain came, fearing Jezebel, Elijah fled to the desert, where he ate bread baked on coals. After fasting for forty days, through four signs Elijah received the commandment to annoint Hazael, Jehu and Elisha. He routed the army of the Syrians with the junior commanders. Ben-Hadad was captured in the fields of Aphek, but spared. Ahab imprisoned Micaiah, by whom he was rebuked. He killed Naboth for his vineyard, and was rebuked and humbled by Elijah. Persuaded by Zedekiah's lies and not believing Micaiah, Ahab attacked Ramoth Gilead, where he was killed by an arrow.",
+      "sources": {
+        "wiki": "22",
+        "C2": "22",
+        "W": "22",
+        "Lz1": "22"
+      }
+    },
+    {
+      "id": "n-ochozias1",
+      "name": "Ahaziah of Israel",
+      "years": 2,
+      "text": "This Ahaziah consulted the god of Ekron because he had had a fall. Two companies of fifty men were burned by Elijah and the third left unharmed, and Ahaziah died.",
+      "sources": {
+        "wiki": "2",
+        "C2": "2",
+        "W": "2",
+        "Lz1": "2"
+      }
+    },
+    {
+      "id": "n-joram2",
+      "name": "Jehoram of Israel",
+      "years": 12,
+      "text": "This Jehoram (after Micaiah was killed by a fall and water was given to Elisha in the desert), with the help of Josaphat and the king of Edom, forced the king of Moab to kill his son. And during the Samarian famine, he escaped the Syrian sword thanks to the warning of the lepers. He was wounded at the siege of Ramoth, and later he was killed by Jehu's arrow.",
+      "sources": {
+        "wiki": "12",
+        "C2": "12",
+        "W": "12",
+        "Lz1": "12"
+      }
+    },
+    {
+      "id": "n-jehu3",
+      "name": "Jehu",
+      "years": 28,
+      "text": "Jehu was annointed king by Elisha's boy. He killed Jehoram and Ahaziah, threw down Jezebel, beheaded the seventy sons of Ahab and killed forty-two brothers of Ahaziah. With Jehonadab's blessing, he treacherously killed the prophets and priests of Baal in Samaria, and he destroyed the temple to build latrines in its place.",
+      "sources": {
+        "wiki": "28",
+        "C2": "28",
+        "W": null,
+        "Lz1": "28"
+      }
+    },
+    {
+      "id": "n-joachaz1",
+      "name": "Jehoahaz of Israel",
+      "years": 17,
+      "sources": {
+        "wiki": "17",
+        "C2": "17",
+        "W": "17",
+        "Lz1": "17"
+      }
+    },
+    {
+      "id": "n-joas2",
+      "name": "Jehoash of Israel",
+      "years": 16,
+      "text": "Jehoash, when he had visited Elisha, shot an arrow on his command and struck the ground three times. He defeated Amaziah, Jerusalem surrendered, and he took way the treasures.",
+      "sources": {
+        "wiki": "16",
+        "C2": "16",
+        "W": "16",
+        "Lz1": "16"
+      }
+    },
+    {
+      "id": "n-jeroboam2",
+      "name": "Jeroboam II",
+      "years": 41,
+      "sources": {
+        "wiki": "41",
+        "C2": "41",
+        "W": "41",
+        "Lz1": "41"
+      }
+    },
+    {
+      "id": "n-sineRege2",
+      "name": "No King (2)",
+      "years": 23,
+      "sources": {
+        "wiki": "23",
+        "C2": "23",
+        "W": "23",
+        "Lz1": "23"
+      }
+    },
+    {
+      "id": "n-zacharias2",
+      "name": "Zechariah of Israel",
+      "years": 0.5,
+      "sources": {
+        "wiki": "6 months",
+        "C2": "6 months",
+        "W": "6 months",
+        "Lz1": "6 months"
+      }
+    },
+    {
+      "id": "n-sellum1",
+      "name": "Shallum",
+      "years": 0.083,
+      "sources": {
+        "wiki": "1 month",
+        "C2": "1 month",
+        "W": "1 month",
+        "Lz1": "1 month"
+      }
+    },
+    {
+      "id": "n-manaen",
+      "name": "Menahem",
+      "years": 10,
+      "text": "Menahem gave Pul 1000 silver talents to retreat from him. He provoked wrath against himself with a gift of fake calves.",
+      "sources": {
+        "wiki": "10",
+        "C2": "10",
+        "W": "10",
+        "Lz1": "10"
+      }
+    },
+    {
+      "id": "n-faceia",
+      "name": "Pekahiah",
+      "years": 2,
+      "sources": {
+        "wiki": "2",
+        "C2": "2",
+        "W": "2",
+        "Lz1": "2"
+      }
+    },
+    {
+      "id": "n-facee",
+      "name": "Pekah",
+      "years": 20,
+      "text": "Pekah did not resist Tiglath-Pileser, who captured two and a half tribes, and from the tribe of Zabulun and Naphtali the equivalent of half a tribe.",
+      "sources": {
+        "wiki": "20",
+        "C2": "20",
+        "W": "20",
+        "Lz1": "20"
+      }
+    },
+    {
+      "id": "n-sineRege3",
+      "name": "No King (3)",
+      "years": 8,
+      "sources": {
+        "wiki": "8",
+        "C2": "8",
+        "W": "8",
+        "Lz1": "8"
+      }
+    },
+    {
+      "id": "n-osee2",
+      "name": "Hoshea",
+      "years": 9,
+      "text": "Under Hoshea, although he had been given permission to go to Jerusalem, the ten tribes were captured by Shalmaneser. Among them was Tobit, whose history is well known. Samaria was beseiged for three years and filled with Cuthites, Jacobites, and Samaritans, who, for fear of lions, received the law, but did not abandon idols.",
+      "sources": {
+        "wiki": "9",
+        "C2": "9",
+        "W": "9",
+        "Lz1": "9"
+      }
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<!-- 
+    author: Jakob Sonnberger
+    company: DDH
+    purpose: Visualizing the CHIGC line of kings as Barchart
+    last update: 10/2026
+-->
+<html>
+    <head>
+        <title>Line of kings</title>
+        <meta charset="utf-8" />
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" />
+        <!-- Bootstrap JS -->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- d3 JS -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+        <!-- CSS -->
+        <style type="text/css">
+            div#myChart {
+                min-height: 600px;
+                position: relative;
+            }
+            a {
+                color: black;
+            }
+            .difference {
+                background-color: OrangeRed !important;
+            }
+            </style>
+    </head>
+    <body class="p-5">
+        <header>
+            <h1>Line of kings</h1>
+        </header>
+        <main>
+            <article>
+                <div id="myChart"></div>
+            </article>
+            <article>
+                <div class="row">
+                    <div class="col-12 col-md-6">
+                        <h2>Juda</h2>
+                        <table class="table table-hover" id="judaTable">
+                            <thead class="table-dark"/>
+                            <tbody/>
+                        </table>
+                    </div>
+                    <div class="col-12 col-md-6">
+                        <h2>Israel</h2>
+                        <table class="table table-hover" id="israelTable">
+                            <thead class="table-dark"/>
+                            <tbody/>
+                        </table>
+                    </div>
+                </div>
+
+            </article>
+        </main>
+        <!-- Project JS -->
+        <script type="text/javascript" src="kings.js"></script>
+    </body>
+</html>
